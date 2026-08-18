@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi, I'm Saket 👋
+
+About Me
+🎓 Studying Data Science at Purdue University (Class of 2029)
+💼 I've worked as a Deli Associate, a Taekwondo instructor, and a server. Different from data work, but it's where I learned to hit deadlines, handle problems as they come up, and work with a team
+🧗 Outside of school: bouldering/rock climbing, hiking, and lifting
+📫 Reach me: saketbanda06@gmail.com
 
 <!--
 **saket-banda/saket-banda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
